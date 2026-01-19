@@ -1,0 +1,201 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: David E. Gilbert
+  headline: Partner Performance Manager | NetSuite Expert | MBA, MS Systems Engineering
+  location: Pleasanton, CA
+  email: dave.gilbert@gmail.com
+  photo:
+  phone: "+16502693322" 
+  website: https://github.com/whispersnowleopard
+  social_networks:
+    - network: LinkedIn
+      username: davidegilbert
+  custom_connections:
+  sections:
+    education:
+      - institution: Stanford University
+        area: Business Administration & Systems Engineering
+        degree: MBA, MS
+        start_date: 
+        end_date:
+        location: Stanford, CA
+        highlights:
+          - MBA, Graduate School of Business
+          - MS, Systems Engineering
+      - institution: University of Michigan
+        area: Industrial Engineering
+        degree: BS
+        start_date:
+        end_date:
+        location: Ann Arbor, MI
+        highlights:
+          - magna cum laude
+          - Tau Beta Pi (National Engineering Honor Society)
+          - Alpha Pi Mu (Industrial Engineering Honor Society)
+    
+    core_competencies:
+      - Partner Ecosystem Development & Scaling
+      - Alliance & SI Partner Management
+      - Program Design & Operational Excellence
+      - Data Analytics & Performance Measurement
+      - Cross-Functional Collaboration
+      - Business Intelligence & Automation
+    
+    experience:
+      - company: Oracle NetSuite
+        position: Partner Performance Manager
+        start_date: 2022-01
+        end_date: present
+        location: San Mateo, CA
+        highlights:
+          - Supporting global portfolio of 1,000+ Solution Provider and Alliance (SI-type) partners, developing joint go-to-market strategies and performance frameworks to drive license sales growth
+          - Designed and implemented scalable Partner Annual Review process with repeatable frameworks enabling efficient engagement across diverse partner types while reducing manual touchpoints
+          - Built and launched comprehensive Business Intelligence dashboards and analytics tools deployed in Partner Center, providing self-service performance insights and reducing operational workload
+          - Collaborate cross-functionally with Sales VPs, Partner Operations, Data Science, Product, and SuiteSuccess teams to ensure partners have resources for successful implementations
+          - Developed custom CMS application to rebuild partner asset catalog with automated republishing workflows, enabling rapid content updates and standardized asset management
+      
+      - company: Oracle NetSuite
+        position: Consulting Technical Director
+        start_date: 2016-09
+        end_date: 2021-12
+        location: San Mateo, CA
+        highlights:
+          - Managed delivery of paid consulting services for portfolio of customers ensuring successful NetSuite software utilization
+          - Worked with NetSuite's largest and highest profile customers in Software and Services vertical
+          - Conducted onsite assessments with Executives and key business users
+          - Provided Program Management for simultaneous initiatives across customer portfolio
+          - Led projects implementing complex customizations to meet business objectives
+          - Guided feature implementations and drove upgrade/release planning
+          - Conducted analyses and made recommendations to optimize Scalability and Performance
+      
+      - company: Delivery Agent
+        position: Senior Manager, Enterprise Systems
+        start_date: 2015-01
+        end_date: 2016-07
+        location: San Francisco, CA
+        highlights:
+          - Responsible for Back Office applications including NetSuite ERP at $100M ecommerce company
+          - Rebuilt company's Financial Systems from unsustainable solution
+          - Led analysis and re-architecture process with technical support from NetSuite
+          - Re-implemented NetSuite ERP (live April 2016)
+          - Led 8-person software dev team adding functionality to OMS and rebuilding Mule integration platform
+          - Achieved 90% reduction in ERP transaction volume and substantial increase in A/R and A/P automation
+          - Delivered first-ever "to-the-penny" reconciliation of card payments (75K lines in April)
+          - Conducted system conversions for newly acquired business onto NetSuite from Great Plains
+      
+      - company: Deloitte Consulting LLP
+        position: Specialist Master, NetSuite
+        start_date: 2014-05
+        end_date: 2014-12
+        location: San Francisco, CA
+        highlights:
+          - Managed teams of functional and technical consultants delivering ERP implementations and solutions architecture
+          - Managed global ERP implementation at $1B company, replacing Oracle and multiple legacy systems
+      
+      - company: Genesys
+        position: Principal Business Systems Analyst
+        start_date: 2013-10
+        end_date: 2014-05
+        location: Daly City, CA
+        highlights:
+          - Gathered requirements, led business process changes, designed and deployed software solutions
+          - Administered NetSuite ERP for global enterprise software company with $750M+ sales
+          - Lead functional resource for global ERP implementation replacing SAP R3, delivered on schedule
+          - Took over troubled purchase approvals customization and delivered to requirements on schedule
+          - Led multiple projects adding required functionality and addressing prior year audit material weakness
+          - Achieved significant reduction in labor and errors
+      
+      - company: FrontRange Solutions
+        position: Sr. Business Systems Analyst
+        start_date: 2010-11
+        end_date: 2012-04
+        location: Pleasanton, CA
+        highlights:
+          - Gathered requirements, developed and led business process changes, designed and deployed solutions
+          - Administered NetSuite ERP/CRM for $100M global software company
+          - Key participant in global CRM implementation involving 150 users; drove User Acceptance Testing
+          - Created custom roles and dashboards for Product Marketing, Sales, Professional Services, and Sales Engineering teams
+          - Developed custom reports, searches, KPIs, and pivots
+          - Wrote requirements spec for reseller margin credit automation (saving 200 hrs/month)
+          - Managed delivery of custom SuiteScript solution for sales quote approval routing
+          - Technical lead for Marketo implementation with NetSuite CRM integration
+          - Technical lead for Host Analytics (FP&A) implementation with NetSuite ERP integration
+          - Drove Regression testing for five NetSuite upgrade cycles with custom tracking system, reducing workload 70%
+      
+      - company: Dave Gilbert Consulting
+        position: Principal Consultant
+        start_date: 2009-09
+        end_date: 2013-05
+        location: Pleasanton, CA
+        highlights:
+          - Provided NetSuite strategy and implementation services on contract basis
+          - Developed or led business process changes to fit client needs while optimizing system performance
+          - 'PracticeFusion: Developed inside sales and support business processes with reporting capabilities'
+          - 'ZillionTV: Redesigned product & inventory management system to streamline operations'
+          - 'Skyline Solar: Analyzed MIS requirements, mapped Procure to Pay and Order to Cash processes'
+      
+      - company: ACCUSPLIT, INC.
+        position: Director
+        start_date: 2004-09
+        end_date: 2009-08
+        location: Pleasanton, CA
+        highlights:
+          - Lead user for NetSuite ERP/CRM
+          - Led projects to redesign and optimize purchasing and order management processes
+          - Reduced labor requirements and costs by 25% while increasing customer satisfaction
+          - Established demand forecast planning process resulting in 35% reduction in air freight costs
+          - Achieved 90% reduction in out of stock conditions
+          - Led development and launch of new corporate & ecommerce website
+          - Served as Project Manager and ERP technical lead
+          - Achieved 50% increase in page views & avg time on site, doubled web sales conversion rate
+      
+      - company: The Boeing Company
+        position: Industrial Engineer / Internal Consultant - Manufacturing R&D
+        start_date: 1997
+        end_date: 2001
+        location: Everett, WA
+        highlights:
+          - Initiated research programs making large-scale process improvements to manufacturing and supply chain
+          - Decreased flow times, improved efficiencies, and lowered costs (saving $200K/year on one project)
+          - Managed multiple projects and customers simultaneously
+          - Led projects and developed software models analyzing business processes for senior management
+          - Crafted recommendations and won funding support using programming, graphic design, statistics, and quantitative analysis
+          - Led cross-functional teams in major business process improvement projects
+          - Used complex software-based modeling tools for capital purchase and process change analysis
+          - Featured speaker at annual ProModel Users Conference
+      
+      - company: United States Navy
+        position: Deputy Director, Human Services Agency & Division Officer
+        start_date: 1993
+        end_date: 1997
+        location: Everett, WA
+        highlights:
+          - Managed 24-person team providing support services to 24,000+ people
+          - Received Navy Achievement Medal for outstanding professional accomplishments and leadership
+          - Directed operation of nuclear power generation plants
+          - Oversaw ship's electrical power generation
+          - Supervised preventative maintenance schedule on $10MM of equipment
+          - Directed complex corrective actions providing uninterrupted power
+    
+    skills:
+      - label: Partner Management
+        details: Ecosystem Development, Go-to-Market Strategy, Partner Enablement, Program Design & Scaling, Performance Analytics, Cross-Functional Collaboration
+      - label: Business Systems
+        details: Business Intelligence (Domo, NetSuite), ERP (NetSuite, SAP), Integration Platforms (MuleSoft, Boomi), CRM (NetSuite, Salesforce), Process Automation
+      - label: Technical Background
+        details: SuiteScript, Python, Data Modeling, System Architecture, Business Process Design
+
+design:
+  theme: classic
+  
+locale:
+  language: english
+
+settings:
+  current_date: '2025-12-30'
+  render_command:
+    typst_path: rendercv_output/dave_gilbert_cv.typ
+    pdf_path: rendercv_output/dave_gilbert_cv.pdf
+    markdown_path: rendercv_output/dave_gilbert_cv.md
+    html_path: rendercv_output/dave_gilbert_cv.html
+    png_path: rendercv_output/dave_gilbert_cv.png

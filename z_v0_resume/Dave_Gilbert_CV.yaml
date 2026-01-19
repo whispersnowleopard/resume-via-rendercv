@@ -6,7 +6,7 @@ cv:
   email: dave.gilbert@gmail.com
   photo:
   phone: "+16502693322" 
-  website:
+  website: https://github.com/whispersnowleopard
   social_networks:
     - network: LinkedIn
       username: davidegilbert
@@ -33,6 +33,14 @@ cv:
           - Tau Beta Pi (National Engineering Honor Society)
           - Alpha Pi Mu (Industrial Engineering Honor Society)
     
+    core_competencies:
+      - Partner Ecosystem Development & Scaling
+      - Alliance & SI Partner Management
+      - Program Design & Operational Excellence
+      - Data Analytics & Performance Measurement
+      - Cross-Functional Collaboration
+      - Business Intelligence & Automation
+    
     experience:
       - company: Oracle NetSuite
         position: Partner Performance Manager
@@ -40,10 +48,11 @@ cv:
         end_date: present
         location: San Mateo, CA
         highlights:
-          - Working with Channel Sales leadership to create and implement initiatives driving growth in Partner license sales and logos
-          - Created and driving implementation of completely overhauled Partner Annual Review process
-          - Built and launched Business Intelligence dashboard and analytics tools with automation to standardize output and reduce participant workload
-          - Working with senior leadership and Enablement staff to evangelize, train, and drive adoption
+          - Managing portfolio of Solution Provider and Alliance (SI-type) partners, developing joint go-to-market strategies and performance frameworks to drive Partner license sales growth
+          - Designed and implemented scalable Partner Annual Review process with repeatable frameworks that enable efficient engagement across diverse partner types while reducing manual touchpoints
+          - Built and launched comprehensive Business Intelligence dashboards and analytics tools deployed in Partner Center, providing partners with self-service performance insights and reducing operational workload
+          - Collaborate cross-functionally with Sales VPs, Partner Operations, Data Science, Product, and SuiteSuccess teams to ensure partners have resources and support for successful implementations
+          - Led Sapric CMS project to rebuild partner asset catalog with automated republishing workflows, enabling rapid content updates and standardized asset management across partner ecosystem
       
       - company: Oracle NetSuite
         position: Consulting Technical Director
